@@ -19,7 +19,7 @@
 
 Technologies:
 
-[https://img.shields.io/badge/Developed%20in-React%20Native-blue]
+[[https://img.shields.io/badge/Developed%20in-React%20Native-blue]]
 <!--[![Platform](https://img.shields.io/badge/iOS-15-green)](https://www.apple.com/ios/ios-15/)-->
 
 Data Source: 
