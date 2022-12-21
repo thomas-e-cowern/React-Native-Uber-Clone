@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/thomas-e-cowern/">
-    <img src="News Reader/Assets.xcassets/newspaper.imageset/newspaper.png" alt="Logo" width="80" height="80">
+<!--    <img src="News Reader/Assets.xcassets/newspaper.imageset/newspaper.png" alt="Logo" width="80" height="80">-->
   </a>
   <p align="center">
     A React Native Uber Clone to help my learn React Native
@@ -19,7 +19,7 @@
 
 Technologies:
 
-https://img.shields.io/badge/Developed%20in-React%20Native-blue
+[https://img.shields.io/badge/Developed%20in-React%20Native-blue]
 <!--[![Platform](https://img.shields.io/badge/iOS-15-green)](https://www.apple.com/ios/ios-15/)-->
 
 Data Source: 
